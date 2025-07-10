@@ -2,12 +2,12 @@
 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/deniils/project-/edit/master/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/deniils/project-/blob/master/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/deniils/play/tree/main/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/deniils/play/tree/main/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/deniils/play/tree/main/README.md#Результат)  
-[6. Выводы](https://github.com/deniils/play/tree/main/README.md#Выводы)
+[1. Описание проекта](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Результат)  
+[6. Выводы](https://github.com/deniils/-HeadHunter/blob/analys/Readme.md#Выводы)
 
 ### Описание проекта
 Представьте, что вы устроились на работу в кадровое агентство, которое подбирает вакансии для IT-специалистов. Ваш первый проект — создание модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist. Сначала вам необходимо понять, что из себя представляют данные и насколько они соответствуют целям проекта. В литературе эта часть работы над ML-проектом называется Data Understanding, или анализ данных.
